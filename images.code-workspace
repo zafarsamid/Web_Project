@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../gemini-clone-html-css-javascript-images (1)/images"
+		},
+		{
+			"name": "WebDev-Project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WebDev-Project"
+	}
+}
